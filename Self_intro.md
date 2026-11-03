@@ -29,7 +29,7 @@
 我正在逐步將過往的行銷與 NGO 實戰經驗，轉化為端到端 (End-to-End) 的數據分析作品集。以下是正在建構與優化的項目：
 
 ### 🩺 [Project 1] Medical Appointment Data Analytics Project (醫療預約數據分析專案)
-*   **Repository:** 🔗 [查看本專案程式碼與報表](https://github.com) *(請確認這是你的正確專案連結)*
+*   **Repository:** 🔗 [查看本專案程式碼與報表]([https://github.com](https://github.com/icybbin/Medical_appointment)) 
 *   **Description:** 一個完整的醫療數據分析端到端流程。旨在透過歷史數據預測並分析患者「不赴約 (No-show)」的核心原因與趨勢。
 *   **Tech Stack:** Python | SQL | Tableau
 *   **Contribution:**
