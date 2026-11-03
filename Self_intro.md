@@ -28,12 +28,21 @@
 
 我正在逐步將過往的行銷與 NGO 實戰經驗，轉化為端到端 (End-to-End) 的數據分析作品集。以下是正在建構與優化的項目：
 
-### 🔍 [Project 1] NGO 活動優化與渠道轉化率分析
+### 🩺 [Project 1] Medical Appointment Data Analytics Project (醫療預約數據分析專案)
+*   **Repository:** 🔗 [查看本專案程式碼與報表](https://github.com) *(請確認這是你的正確專案連結)*
+*   **Description:** 一個完整的醫療數據分析端到端流程。旨在透過歷史數據預測並分析患者「不赴約 (No-show)」的核心原因與趨勢。
+*   **Tech Stack:** Python | SQL | Tableau
+*   **Contribution:**
+    *   **Python (`main.py`):** 建立自動化數據歸檔機制與 Robust 環境設定，使用 `Pandas` 進行數據選取與初步特徵檢查，並導入防錯機制 (Try-Catch)。
+    *   **SQL (`medical.sql`):** 撰寫高級查詢提取核心指標，深度分析患者年齡、預約週期、簡訊通知 (SMS) 與赴約率之間的關鍵關聯性。
+    *   **Tableau (`medical_tableau_analysis.twb`):** 將分析結果轉化為互動式商業儀表板，提供決策者一目了然的視覺化洞察。
+
+### 🔍 [Project 2] NGO 活動優化與渠道轉化率分析
 *   **Status:** 🏗️ *In Progress (Building Pipeline & Dashboard)*
 *   **Description:** 結合目前的 NGO 業務場景，分析活動問卷、用戶滿意度與行銷渠道數據，透過 SQL 提取指標、Python 進行定性文本與定量分析，並用 Tableau 打造漏斗轉化看板。
 *   **Tech Stack:** SQL | Python (Pandas/Seaborn) | Tableau
 
-### 📊 [Project 2] 綠色環保大賽：前期市場調研與受眾意向分析
+### 📊 [Project 3] 綠色環保大賽：前期市場調研與受眾意向分析
 *   **Status:** 📅 *Upcoming*
 *   **Description:** 配合即將與區議員對接的環保大賽，進行前置的定量市場調研，預測受眾參與意願，為活動 Proposal 提供數據支撐。
 *   **Tech Stack:** Excel | Tableau | 定量分析
