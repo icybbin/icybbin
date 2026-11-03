@@ -21,6 +21,9 @@
 *   **Marketing & Insights:** 內容行銷（Content Marketing） | 用候增長與轉化率優化（CRO） | 商業敏銳度
 *   **Project Management:** 項目提案與落地（Proposal Writing） | 公共與政府關係對接 | 客戶關係管理 (AE)
 *   **Creative Mindset:** 視覺視覺設計（如活動吉祥物設計） | 品牌文案撰寫
+*   **Data Pipeline & Analysis:** 探索性數據分析 (EDA) | 異常值處理與防錯機制 (Try-Catch Automation) | 進階 SQL 關聯查詢 (Advanced Relational Querying)
+*   **Business Methodology:** AARRR 漏斗轉化率優化 (Funnel Conversion) | 行銷渠道歸因分析 (Marketing Channel Attribution) | 定量問卷設計與用戶滿意度建模 (CSAT Analysis) 
+
 
 ---
 
