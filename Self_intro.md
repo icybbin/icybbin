@@ -49,7 +49,7 @@
 
 ## 📫 Connect with me
 
-*   💼 **LinkedIn:** [Your LinkedIn Profile URL]
-*   📧 **Email:** [Your Email Address]
+*   💼 **LinkedIn:** www.linkedin.com/in/icy-hu-7bb28928b
+*   📧 **Email:** icyhu0525@gmail.com / hubingqing@163.com
 *   💬 **Let's chat about:** Data Analytics, Growth Marketing, or Social Impact Projects!
 
